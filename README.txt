@@ -2,7 +2,7 @@ README File/ Analysis Report
 CS 245 Assignment 1: Spell Checker
 
 Name: Venkatraj Mohan
-Date/Time Completed: 10:45pm Novembe 17th, 2019
+Date/Time Completed: 11:05pm November 17th, 2019
 
 List of Files and their purposes:
 
